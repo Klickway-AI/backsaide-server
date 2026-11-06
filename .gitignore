@@ -1,0 +1,7 @@
+# CONTEXTOS:START
+# Derived caches and journals; regenerate with `contextos compile`.
+.agents/compiled/
+.agents/.contextos/
+# CONTEXTOS:END
+
+.agents/

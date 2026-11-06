@@ -1,0 +1,66 @@
+backsAIde – Lizenz- und Nutzungsbedingungen
+===========================================
+
+Copyright (c) 2026 Anette Käpplinger, Hagenbach. Alle Rechte vorbehalten.
+All rights reserved.
+
+1. Rechteinhaberin
+   Anette Käpplinger, Raiffeisenstr. 29, 76767 Hagenbach (Kontakt: backsAIt@mail.de).
+   Alle Urheber-, Nutzungs- und sonstigen Schutzrechte an backsAIde (Programm, Quellcode,
+   Dokumentation, Name, Gestaltung) liegen bei der Rechteinhaberin. Die Software wird
+   lizenziert, nicht verkauft.
+
+2. Eingeräumtes Nutzungsrecht
+   Die Rechteinhaberin räumt dir ein einfaches, nicht ausschließliches, nicht übertragbares
+   und unentgeltliches Recht ein, das Programm in der unveränderten, von ihr veröffentlichten
+   Fassung auf eigenen Geräten zu installieren und zu nutzen, privat wie geschäftlich.
+   Mehrere Personen dürfen denselben Server nutzen, sofern du ihn selbst betreibst.
+
+3. Nicht erlaubt (soweit das Gesetz nichts anderes zwingend erlaubt)
+   a) das Programm zu ändern, zu übersetzen, zu bearbeiten oder abgeleitete Werke zu erstellen,
+   b) das Programm zurückzuentwickeln, zu dekompilieren oder zu entpacken, um den Quellcode
+      zu gewinnen,
+   c) das Programm weiterzugeben, zu verkaufen, zu vermieten, zu verleihen, öffentlich
+      zugänglich zu machen oder Unterlizenzen zu erteilen; die Weitergabe eines Links auf die
+      offizielle Download-Seite ist erlaubt,
+   d) Urheberrechtsvermerke, Impressum, Namen oder diese Lizenz zu entfernen oder zu
+      verändern,
+   e) das Programm als Dienst für Dritte gegen Entgelt anzubieten.
+   Für Ausnahmen ist die schriftliche Zustimmung der Rechteinhaberin nötig.
+
+4. Zwingende gesetzliche Rechte
+   Unberührt bleiben die Rechte, die dir das Gesetz zwingend gibt, insbesondere §§ 69d Abs. 2
+   und 3 sowie 69e Urheberrechtsgesetz (Sicherungskopie, Beobachten und Testen,
+   Dekompilierung für Interoperabilität unter den dort genannten Voraussetzungen).
+
+5. Bestandteile Dritter
+   Das Programm enthält die Laufzeitumgebung Node.js (MIT-Lizenz, Copyright der Node.js
+   contributors). Ihr Lizenztext liegt der Software als NODE-LICENSE.txt bei und gilt für
+   diesen Bestandteil. Diese Lizenz gilt nur für den eigenen Code von backsAIde.
+
+6. Gewährleistung und Haftung
+   Die Software wird unentgeltlich überlassen. Die Rechteinhaberin haftet nur für Vorsatz und
+   grobe Fahrlässigkeit sowie für arglistig verschwiegene Mängel. Unberührt bleibt die Haftung
+   für Schäden aus der Verletzung von Leben, Körper oder Gesundheit, nach dem
+   Produkthaftungsgesetz und für übernommene Garantien. Eine Haftung für Datenverlust besteht
+   nur, soweit er auch bei regelmäßiger, dem Wert der Daten angemessener Datensicherung
+   eingetreten wäre. Die Notizen sind verschlüsselt; geht das Token verloren, sind sie nicht
+   wiederherstellbar. Bitte sichere das Token und deine Daten selbst.
+
+7. Verstoß und Beendigung
+   Bei einem Verstoß gegen diese Bedingungen endet das Nutzungsrecht automatisch. Weitere
+   Rechte der Rechteinhaberin bleiben unberührt.
+
+8. Anwendbares Recht
+   Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Zwingende Verbraucherschutz-
+   vorschriften des Staates, in dem du lebst, bleiben unberührt.
+
+---------------------------------------------------------------------------------------------
+English summary (the German text above is authoritative):
+Copyright (c) 2026 Anette Käpplinger. All rights reserved. You may install and use the
+unmodified software free of charge on your own devices. You may not modify, reverse engineer,
+redistribute, rent, sublicense or remove notices, except where mandatory law (e.g. EU
+Directive 2009/24/EC, sections 69d and 69e of the German Copyright Act) allows it. The
+software is provided free of charge; liability is limited to intent and gross negligence,
+except for injury to life, body or health and as required by product liability law. Node.js is
+included under the MIT licence (see NODE-LICENSE.txt). German law applies.
